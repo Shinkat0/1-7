@@ -18,3 +18,54 @@
 	padding-left: 20px;
 	font-size: 30px;
 }
+
+main{
+	width: 100%
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+
+.main-content{
+	width: 840px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-bottom: 1px solid #d3d3d3;
+	margin:0 auto;
+}
+
+.content-logo1{
+	background-image: url(img/wc-logo.png);
+	width: 180px;
+	height: 35px;
+	margin-bottom: 20px;
+}
+
+
+.content-logo2{
+	background-image: url(img/wcp-logo.png);
+	width: 180px;
+	height: 35px;
+	margin-bottom: 20px;
+}
+
+.content-logo3{
+	background-image: url(img/wcw-logo.png);
+	width: 180px;
+	height: 10px;
+	margin-bottom: 20px;
+}
+
+.content-logo4{
+	background-image: url(img/wcc-logo.png);
+	width: 180px;
+	height: 10px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
